@@ -1,24 +1,23 @@
 {% extends "layout.njk" %}
 
+{% block head %}
+    <title>Sobre -
+        {{ about.name }}</title>
+{% endblock %}
 
-    {% block head %}
-             <title>Sobre - Arthur Barros</title>
-    {% endblock %}
+{% block content %}
 
+    <div id="wrapper">
+        <img src="{{ about.avatar_url }}" alt="Imagem de {{ about.name }}">
+        <h1>{{ about.name }}</h1>
+        <h2>{{ about.rote }}</h2>
+        <p>{{ about.description }}</p>
+    </div>
 
-    {% block content %}
+    <div id="links-footer" class="links">
+        {% for link in about.links %}
+            <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
+        {% endfor %}
+    </div>
 
-        <div id="wrapper">
-            <img src="https://avatars3.githubusercontent.com/u/51407751?s=460&u=ffe2181419d1dd1cb5aaa369391a820a017c430b&v=4" alt="Arthur Barros">
-            <h1>Arthur Barros</h1>
-            <h2>Estudante Rocketseat</h2>
-            <p>Programador full-stack, focado em aprender os melhores conteúdos em programação. Estudante do <a href="https://www.ifms.edu.br/" target="_blanck">Instituto Federal</a></p>
-        </div>
-
-        <div id="links-footer" class="links">
-            <a href="https://github.com/Arthur-Barros" target="_blank" >Github</a>
-            <a href="https://www.facebook.com/arthur.barros.54922" target="_blank" >Facebook</a>
-            <a href="https://www.linkedin.com/in/arthur-barros-/" target="_blank" >Linkedin</a>
-        </div>
-
-    {% endblock %}
+{% endblock %}

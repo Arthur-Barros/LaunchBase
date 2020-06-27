@@ -3,7 +3,8 @@ module.exports = [
         id: "GykTLqODQuU",
         title: "Formulário Animado com JS puro e CSS Animation | Mayk Brito",
         duration: "57 min",
-        price: "Free"
+        price: "Free",
+        featured: true,
     },
     {
         id: "HN1UjzRSdBk",
@@ -21,7 +22,8 @@ module.exports = [
         id: "BOWdx4rLwXg",
         title: "Migrando de Tecnologias Dentro de um App Grande | Diego Fernandez",
         duration: "1 hora",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "ghTrp1x_1As",
@@ -33,7 +35,8 @@ module.exports = [
         id: "2alg7MQ6_sI",
         title: "Como utilizar Git e Github na prática: Guia para iniciantes | Mayk Brito",
         duration: "37 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
 
 
