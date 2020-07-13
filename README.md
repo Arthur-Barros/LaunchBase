@@ -1,13 +1,16 @@
 # LaunchBase
-Repositório das aulas do LaunchBase da Rocketseat
-<p align="center">Aulas desenvolvidas para melhorar e praticar os conceitos de JavaScript, Html, Node Js, Css, entre outros</p>
+<h1 align="center">
+  <img src="https://camo.githubusercontent.com/268b1344409fac98c4eeda520482b6910c4ddcba/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d6c61756e6368626173652f6c6f676f2e706e67" alt="LaunchBase">
+</h1>
+
+**<p align="center">Aulas desenvolvidas para melhorar e praticar os conceitos de JavaScript, Html, Node Js, Css, entre outros</p>**
 
 # Indice
 [Aula02](#aula02-front-end) | [Aula03](#aula03-back-end)
 
 ## Aula02 Front-End
 <h1>
-  <img src="https://ik.imagekit.io/xlj9cejf8v/iniciofrontend_iag00lu3Z.gif" alt="Gif referente a Aula01 Front-End">
+  <img src="https://ik.imagekit.io/xlj9cejf8v/iniciofrontend_iag00lu3Z.gif" alt="Gif referente a Aula02 Front-End">
 </h1>
 
 ## Sobre Aula02 Front-End
