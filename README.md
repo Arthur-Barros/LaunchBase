@@ -9,29 +9,34 @@
 
 ---
 
-## Aula02 Front-End
+## Aula02 **Front-End**
 <h1>
   <img src="https://ik.imagekit.io/xlj9cejf8v/iniciofrontend_iag00lu3Z.gif" alt="Gif referente a Aula02 Front-End">
 </h1>
 
-## Sobre Aula02 Front-End
+## Sobre Aula02 **Front-End**
 
 O projeto **Aula02** foi desenvolvido no curso do **Bootcamp Launch Base**, com o objetivo de práticar todo conteúdo estudado dentro do curso. 
 
 ---
 
-## Tecnologias utilizadas Aula02 Front-End
+## Tecnologias utilizadas Aula02 **Front-End**
 
 o projeto foi desenvolvido usando as seguintes tecnologias
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Css](https://www.w3schools.com/Css/)
 - [Html](https://www.w3schools.com/html/)
-- [NodeJs](https://nodejs.org/en/)
 
 ---
 
-## Como baixar o projeto Aula02 Front-End
+## Como utilizar Aula02 **Front-End**
+Para executar essa aplicação você vai precisar dos seguintes softwares instalados em seu computador:
+- [Git](https://git-scm.com/)
+
+---
+
+## Como rodar o projeto Aula02 **Front-End**
 
 ```bash
 # Clonar repositório
@@ -69,7 +74,14 @@ o projeto foi desenvolvido usando as seguintes tecnologias
 
 ---
 
-## Como baixar o projeto Aula03 **Back-End**
+## Como utilizar Aula03 **Back-End**
+Para executar essa aplicação você vai precisar dos seguintes softwares instalados em seu computador:
+- [NodeJs](https://nodejs.org/en/)
+- [Git](https://git-scm.com/)
+
+---
+
+## Como rodar o projeto Aula03 **Back-End**
 
 ```bash
 # Clonar repositório
@@ -87,4 +99,4 @@ $ npm start
 ```
 ---
 
-Desenvolvido por **Arthur Barros**
+Desenvolvido por **Arthur Barros** [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
