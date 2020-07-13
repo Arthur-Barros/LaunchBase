@@ -5,7 +5,7 @@
 **<p align="center">Aulas desenvolvidas para melhorar e praticar os conceitos de JavaScript, Html, Node Js, Css, entre outros</p>**
 
 # Indice
-[Aula02](#aula02-front-end) | [Aula03](#aula03-back-end)
+- [Aula02](#aula02-front-end) | [Aula03](#aula03-back-end)
 
 ---
 
