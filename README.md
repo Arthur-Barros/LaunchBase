@@ -43,7 +43,7 @@ Para executar essa aplicação você vai precisar dos seguintes softwares instal
 $ git clone https://github.com/Arthur-Barros/LaunchBase.git
 
 # Entrar no diretório
-$ cd Aula02frontend
+$ cd modulo02/Aula02frontend
 
 # Rodar com o Live Server
 $ Baixar a extensão no VsCode, e depois clicar encima do html e open Live Sever, por padrão é a localhost:5000.
@@ -88,7 +88,7 @@ Para executar essa aplicação você vai precisar dos seguintes softwares instal
 $ git clone https://github.com/Arthur-Barros/LaunchBase.git
 
 # Entrar no diretório
-$ cd Aula03backend
+$ cd modulo02/Aula03backend
 
 # Instalar as dependências
 $ npm install
@@ -98,5 +98,55 @@ $ npm start
 
 ```
 ---
+
+## :memo: Aula04 **Gym**
+<h1>
+  <img src="https://ik.imagekit.io/xlj9cejf8v/iniciobackend_anhWjsxdb.gif" alt="Gif referente a Aula04 Gym">
+</h1>
+
+## :bookmark: Sobre Aula04 **Gym**
+
+O projeto **Aula04** foi desenvolvido no curso do **Bootcamp Launch Base**, com o objetivo de práticar todo conteúdo estudado dentro do curso. 
+
+---
+
+## :rocket: Tecnologias utilizadas Aula03 **Gym**
+
+o projeto foi desenvolvido usando as seguintes tecnologias
+
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Css](https://www.w3schools.com/Css/)
+- [Html](https://www.w3schools.com/html/)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
+- [NodeJs](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+
+---
+
+## :electric_plug: Como utilizar Aula04 **Gym**
+Para executar essa aplicação você vai precisar dos seguintes softwares instalados em seu computador:
+- [NodeJs](https://nodejs.org/en/)
+- [Git](https://git-scm.com/)
+
+---
+
+## :file_folder: Como rodar o projeto Aula04 **Gym**
+
+```bash
+# Clonar repositório
+$ git clone https://github.com/Arthur-Barros/LaunchBase.git
+
+# Entrar no diretório
+$ cd modulo03/Aula04controleAcademia
+
+# Instalar as dependências
+$ npm install
+
+# Iniciar o Projeto
+$ npm start
+
+```
+---
+
 
 Desenvolvido por :purple_heart: **Arthur Barros** :email: [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
