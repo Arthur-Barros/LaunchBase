@@ -4,23 +4,23 @@
 
 **<p align="center">Aulas desenvolvidas para melhorar e praticar os conceitos de JavaScript, Html, Node Js, Css, entre outros</p>**
 
-# Indice
+# :computer: Indice
 - [Aula02](#aula02-front-end) | [Aula03](#aula03-back-end)
 
 ---
 
-## Aula02 **Front-End**
+## :memo: Aula02 **Front-End**
 <h1>
   <img src="https://ik.imagekit.io/xlj9cejf8v/iniciofrontend_iag00lu3Z.gif" alt="Gif referente a Aula02 Front-End">
 </h1>
 
-## Sobre Aula02 **Front-End**
+## :bookmark: Sobre Aula02 **Front-End**
 
 O projeto **Aula02** foi desenvolvido no curso do **Bootcamp Launch Base**, com o objetivo de práticar todo conteúdo estudado dentro do curso. 
 
 ---
 
-## Tecnologias utilizadas Aula02 **Front-End**
+## :rocket: Tecnologias utilizadas Aula02 **Front-End**
 
 o projeto foi desenvolvido usando as seguintes tecnologias
 
@@ -30,13 +30,13 @@ o projeto foi desenvolvido usando as seguintes tecnologias
 
 ---
 
-## Como utilizar Aula02 **Front-End**
+## :electric_plug: Como utilizar Aula02 **Front-End**
 Para executar essa aplicação você vai precisar dos seguintes softwares instalados em seu computador:
 - [Git](https://git-scm.com/)
 
 ---
 
-## Como rodar o projeto Aula02 **Front-End**
+## :file_folder: Como rodar o projeto Aula02 **Front-End**
 
 ```bash
 # Clonar repositório
@@ -51,18 +51,18 @@ $ Baixar a extensão no VsCode, e depois clicar encima do html e open Live Sever
 ```
 ---
 
-## Aula03 **Back-End**
+## :memo: Aula03 **Back-End**
 <h1>
   <img src="https://ik.imagekit.io/xlj9cejf8v/iniciobackend_anhWjsxdb.gif" alt="Gif referente a Aula03 Back-End">
 </h1>
 
-## Sobre Aula03 **Back-End**
+## :bookmark: Sobre Aula03 **Back-End**
 
 O projeto **Aula03** foi desenvolvido no curso do **Bootcamp Launch Base**, com o objetivo de práticar todo conteúdo estudado dentro do curso. 
 
 ---
 
-## Tecnologias utilizadas Aula03 **Back-End**
+## :rocket: Tecnologias utilizadas Aula03 **Back-End**
 
 o projeto foi desenvolvido usando as seguintes tecnologias
 
@@ -74,14 +74,14 @@ o projeto foi desenvolvido usando as seguintes tecnologias
 
 ---
 
-## Como utilizar Aula03 **Back-End**
+## :electric_plug: Como utilizar Aula03 **Back-End**
 Para executar essa aplicação você vai precisar dos seguintes softwares instalados em seu computador:
 - [NodeJs](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
 
 ---
 
-## Como rodar o projeto Aula03 **Back-End**
+## :file_folder: Como rodar o projeto Aula03 **Back-End**
 
 ```bash
 # Clonar repositório
