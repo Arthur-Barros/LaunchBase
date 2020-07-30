@@ -101,7 +101,7 @@ $ npm start
 
 ## :memo: Aula04 **Gym**
 <h1>
-  <img src="https://ik.imagekit.io/xlj9cejf8v/iniciobackend_anhWjsxdb.gif" alt="Gif referente a Aula04 Gym">
+  <img src="https://ik.imagekit.io/xlj9cejf8v/controledeacademia_gNT4_WhE4.gif" alt="Gif referente a Aula04 Gym">
 </h1>
 
 ## :bookmark: Sobre Aula04 **Gym**
