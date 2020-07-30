@@ -99,4 +99,4 @@ $ npm start
 ```
 ---
 
-Desenvolvido por **Arthur Barros** [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
+Desenvolvido por :purple_heart: **Arthur Barros** :email: [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
